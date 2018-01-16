@@ -1,4 +1,4 @@
-Project: 		Garvan Institute Submission
+Project: 		Missing Number Finder Submission
 Author: 		Vonita Buirski
 Date:		 	Jan 2018
 
@@ -34,7 +34,22 @@ Solution Design:
  	
  	Time complexity:
  		The problem is solved in O(n). (There can be overflow if n is large).
+ 	
+ 	Test Class:
+		Built using JUnit and tests the following:
 
+	 		An empty array
+	 	
+	 		No missing number - returns -1
+	 	
+	 		Find missing integer in sorted list
+	 	
+	 		Find missing integer in unsorted list
+	 		
+	 		Test for duplicates
+	 		
+	 		Test for two (or more) missing numbers
+	 	
 Build:
 The application is built using Maven. The build command is as follows:
 	mvn install
