@@ -42,7 +42,7 @@ The application is built using Maven. The build command is as follows:
 	For example:
 		C:\Users\vbuirski\workspace\MissingNumberFinder>mvn install
 		
-		(see attached maven.PNG in submission zip file)
+		(see maven.PNG under main folder)
 		
 
 Execute:
@@ -51,7 +51,7 @@ Execute:
 	For example:
 		C:\Users\vbuirski\workspace\MissingNumberFinder>java -jar target/MissingNumberFinder-0.0.1-SNAPSHOT.jar
 		
-		(see attached java.PNG in submission zip file)
+		(see java.png under main folder)
  
  
 
